@@ -1,0 +1,15 @@
+C:\Users\scott\Desktop\GrandCircus\Repositories\RoshamboLab_App\RoshamboLab\bin\Debug\net6.0\RoshamboLab.exe
+C:\Users\scott\Desktop\GrandCircus\Repositories\RoshamboLab_App\RoshamboLab\bin\Debug\net6.0\RoshamboLab.deps.json
+C:\Users\scott\Desktop\GrandCircus\Repositories\RoshamboLab_App\RoshamboLab\bin\Debug\net6.0\RoshamboLab.runtimeconfig.json
+C:\Users\scott\Desktop\GrandCircus\Repositories\RoshamboLab_App\RoshamboLab\bin\Debug\net6.0\RoshamboLab.dll
+C:\Users\scott\Desktop\GrandCircus\Repositories\RoshamboLab_App\RoshamboLab\bin\Debug\net6.0\RoshamboLab.pdb
+C:\Users\scott\Desktop\GrandCircus\Repositories\RoshamboLab_App\RoshamboLab\obj\Debug\net6.0\RoshamboLab.csproj.AssemblyReference.cache
+C:\Users\scott\Desktop\GrandCircus\Repositories\RoshamboLab_App\RoshamboLab\obj\Debug\net6.0\RoshamboLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\Desktop\GrandCircus\Repositories\RoshamboLab_App\RoshamboLab\obj\Debug\net6.0\RoshamboLab.AssemblyInfoInputs.cache
+C:\Users\scott\Desktop\GrandCircus\Repositories\RoshamboLab_App\RoshamboLab\obj\Debug\net6.0\RoshamboLab.AssemblyInfo.cs
+C:\Users\scott\Desktop\GrandCircus\Repositories\RoshamboLab_App\RoshamboLab\obj\Debug\net6.0\RoshamboLab.csproj.CoreCompileInputs.cache
+C:\Users\scott\Desktop\GrandCircus\Repositories\RoshamboLab_App\RoshamboLab\obj\Debug\net6.0\RoshamboLab.dll
+C:\Users\scott\Desktop\GrandCircus\Repositories\RoshamboLab_App\RoshamboLab\obj\Debug\net6.0\refint\RoshamboLab.dll
+C:\Users\scott\Desktop\GrandCircus\Repositories\RoshamboLab_App\RoshamboLab\obj\Debug\net6.0\RoshamboLab.pdb
+C:\Users\scott\Desktop\GrandCircus\Repositories\RoshamboLab_App\RoshamboLab\obj\Debug\net6.0\RoshamboLab.genruntimeconfig.cache
+C:\Users\scott\Desktop\GrandCircus\Repositories\RoshamboLab_App\RoshamboLab\obj\Debug\net6.0\ref\RoshamboLab.dll
